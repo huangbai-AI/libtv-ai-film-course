@@ -14,8 +14,9 @@ description: 维护和撰写 LibTV AI 影视课程的课程大纲、细化脚本
 ## 开始前
 
 1. 每次处理课程大纲、细化脚本或逐字稿，都完整阅读 [references/document-structure.md](references/document-structure.md)。
-2. 开发 Cortex 写稿模块、保存中间数据或自动校验时，再读取 [references/course-script-schema.json](references/course-script-schema.json)。
-3. 操作飞书知识库和文档时，同时使用 `lark-wiki` 与 `lark-doc`，先读取定位，再执行用户要求的写入。
+2. 涉及 LibTV 功能、模型、按钮、操作步骤或限制时，从已接入的《LibTV使用指南》官方文档知识库读取对应章节；只取当前课节需要的范围。
+3. 开发 Cortex 写稿模块、保存中间数据或自动校验时，再读取 [references/course-script-schema.json](references/course-script-schema.json)。
+4. 操作飞书知识库和文档时，同时使用 `lark-wiki` 与 `lark-doc`，先读取定位，再执行用户要求的写入。
 
 ## 先判断文档层级
 
@@ -78,7 +79,8 @@ description: 维护和撰写 LibTV AI 影视课程的课程大纲、细化脚本
 
 ## 参考资料边界
 
-- LibTV 使用指南用于核对产品操作和模型能力。
+- 《LibTV使用指南》就是已接入、可直接读取的官方文档知识库，是核对产品功能、模型、按钮、操作步骤和限制的正式来源。
+- 自动检索、变更提醒和版本追踪属于后续增强能力；这些能力未完成不影响当前按章节读取和引用官方指南。
 - 课程合作总文档是目标课程结构的来源。
 - 影视飓风 AI 课逐字稿总目录是课程表达参考的正式入口；先按当前 LibTV 课节主题选择最相关的一至两篇，不把整套逐字稿一次性塞进写稿上下文。
 - 影视飓风逐字稿只用于参考课程表达、节奏、教学展开和逐句拆分，不复制原句、个人表达、大纲结构或三列表格作为交付结构。

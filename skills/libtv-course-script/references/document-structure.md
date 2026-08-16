@@ -2,12 +2,14 @@
 
 ## 资料入口
 
-- LibTV 使用指南：`https://resonate.feishu.cn/wiki/Loxfw6XHziYRk0kKzdjcFfp9nhb`
+- LibTV 官方文档知识库（已接入，当前入口）：`https://resonate.feishu.cn/wiki/Loxfw6XHziYRk0kKzdjcFfp9nhb`
 - 课程合作总文档：`https://hcnbsg6ttb3t.feishu.cn/wiki/CBzBwlxGoiR0iFkYYaCcwskVnac`
 - 影视飓风 AI 课逐字稿总目录（正式参考入口）：`https://hcnbsg6ttb3t.feishu.cn/wiki/DgKRwuEhfieAzikqICPcNiD3nCf`
 - 影视飓风逐字稿补充／在完善单篇：`https://hcnbsg6ttb3t.feishu.cn/docx/NGNidcd1yovrkLxPQ9qc66qmn0b`
 
 影视飓风总目录下现有 18 节逐字稿和 1 篇课程复盘。使用时先按当前 LibTV 课节主题选择最相关的一至两篇，再研究课程表达、教学展开、节奏和逐句拆分；不要一次性载入整套内容。它们不是 LibTV 课程的目标表格模板，也不能替代父级课程大纲。
+
+《LibTV使用指南》已作为官方文档知识库接入，可直接按章节读取。功能、模型、按钮、操作步骤和限制以该指南的当前内容为主要依据；同时用当前产品或 LibTV CLI 复核。自动检索、变更提醒和版本追踪尚属增强能力，不得因此把知识库本身标为待办。
 
 ## 三级结构
 

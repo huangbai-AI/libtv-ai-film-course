@@ -1,4 +1,4 @@
 interface:
   display_name: "LibTV 课程写稿"
-  short_description: "维护 LibTV AI 影视课程三级文档并撰写、校验六列细化逐字稿"
-  default_prompt: "使用 $libtv-course-script 基于指定课节主文档撰写六列细化逐字稿。"
+  short_description: "维护 LibTV 课程逐字稿、评论回改、课程表达与锁稿校验"
+  default_prompt: "使用 $libtv-course-script 完成指定课节的六列细化脚本、飞书评论回改与终稿校验。"

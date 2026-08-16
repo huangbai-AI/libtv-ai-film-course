@@ -9,7 +9,12 @@
 - [课程合作主文档与全部子文档](docs/03-course-collaboration/README.md)
 - [关联飞书文档](docs/04-linked-references/)
 - [嵌入多维表格数据](data/bases/)
+- [黄白写稿 Skill](skills/huangbai-script/SKILL.md)
 - [来源与同步说明](sync/SOURCES.md)
+
+## 写稿 Skill
+
+`skills/huangbai-script` 保存课程写稿规范，包括总目录 → 每节大纲 → 下挂细化脚本的三级结构、六列表格规则，以及供后续 Cortex 写稿模块使用的机器可读数据契约。
 
 ## 本次同步
 

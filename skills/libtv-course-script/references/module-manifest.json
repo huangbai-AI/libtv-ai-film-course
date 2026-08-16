@@ -1,0 +1,54 @@
+{
+  "skillVersion": "2.0.0",
+  "updatedAt": "2026-08-16",
+  "modules": [
+    {
+      "id": "libtv-tutorial",
+      "version": "1.0.0",
+      "path": "references/module-libtv-tutorial.md",
+      "status": "active",
+      "source": "https://resonate.feishu.cn/wiki/Loxfw6XHziYRk0kKzdjcFfp9nhb",
+      "updateWhen": ["官方指南修订", "产品界面或模型清单变化", "发现课程稿与当前产品不一致"]
+    },
+    {
+      "id": "professional-course-method",
+      "version": "1.0.0",
+      "path": "references/module-professional-course-method.md",
+      "status": "active",
+      "source": "https://hcnbsg6ttb3t.feishu.cn/wiki/DgKRwuEhfieAzikqICPcNiD3nCf",
+      "updateWhen": ["影视飓风逐字稿目录新增内容", "课程复盘结论更新", "出现新的专业 AI 教程样本"]
+    },
+    {
+      "id": "prior-script-cases",
+      "version": "1.0.0",
+      "path": "references/module-prior-script-cases.md",
+      "status": "active-and-continuously-updated",
+      "source": "https://hcnbsg6ttb3t.feishu.cn/wiki/CBzBwlxGoiR0iFkYYaCcwskVnac",
+      "updateWhen": ["新增课节或细化脚本", "旧稿锁稿或发生较大改版", "案例素材入口变化"]
+    },
+    {
+      "id": "document-structure",
+      "version": "1.1.0",
+      "path": "references/document-structure.md",
+      "status": "active",
+      "source": "user-confirmed-project-specification",
+      "updateWhen": ["用户确认新的文档层级、字段、合并或写回规范"]
+    },
+    {
+      "id": "luo-yonghao-voice",
+      "version": "1.0.0",
+      "path": "references/module-luo-yonghao-voice.md",
+      "status": "active",
+      "source": "public-interviews-and-speeches",
+      "updateWhen": ["用户提供新的讲师样本", "课程团队确认新的表达偏好", "实际试听显示风格规则需要修正"]
+    },
+    {
+      "id": "course-script-schema",
+      "version": "1.0.0",
+      "path": "references/course-script-schema.json",
+      "status": "active",
+      "source": "derived-from-document-structure",
+      "updateWhen": ["文档结构模块改变", "Cortex 存储或校验需求改变"]
+    }
+  ]
+}

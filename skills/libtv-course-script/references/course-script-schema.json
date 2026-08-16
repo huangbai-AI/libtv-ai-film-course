@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "urn:libtv:schemas:course-detailed-script:1",
+  "$id": "urn:libtv:schemas:course-detailed-script:1.1",
   "title": "LibTV AI 影视课程细化脚本",
   "description": "总目录 → 每节大纲 → 下挂细化脚本三级结构中的第三级规范化数据。",
   "type": "object",
@@ -11,11 +11,12 @@
     "lesson",
     "documentHierarchy",
     "outlineSource",
-    "contentGroups"
+    "contentGroups",
+    "uncertainties"
   ],
   "properties": {
     "schemaVersion": {
-      "const": "1.0.0"
+      "const": "1.1.0"
     },
     "columns": {
       "type": "array",
@@ -62,6 +63,11 @@
       "type": "array",
       "minItems": 1,
       "items": {"$ref": "#/$defs/contentGroup"}
+    },
+    "uncertainties": {
+      "type": "array",
+      "description": "所有未确认文字片段。渲染到飞书时必须使用黄色文字背景；空数组表示当前没有待确认内容。",
+      "items": {"$ref": "#/$defs/uncertainty"}
     }
   },
   "$defs": {
@@ -109,6 +115,35 @@
           "type": "array",
           "minItems": 1,
           "items": {"$ref": "#/$defs/spokenLine"}
+        }
+      }
+    },
+    "uncertainty": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["path", "text", "reason", "highlight", "status"],
+      "properties": {
+        "path": {
+          "type": "string",
+          "minLength": 1,
+          "description": "不确定文字所在字段路径。"
+        },
+        "text": {
+          "type": "string",
+          "minLength": 1,
+          "description": "需要精确标黄的最小文字片段。"
+        },
+        "reason": {
+          "type": "string",
+          "minLength": 1,
+          "description": "不确定原因及待确认对象，例如官方指南未覆盖。"
+        },
+        "highlight": {
+          "const": "yellow",
+          "description": "渲染时使用黄色文字背景。"
+        },
+        "status": {
+          "const": "pending-verification"
         }
       }
     },

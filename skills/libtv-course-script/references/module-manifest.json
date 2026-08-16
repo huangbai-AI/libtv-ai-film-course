@@ -1,10 +1,10 @@
 {
-  "skillVersion": "2.0.0",
+  "skillVersion": "2.0.1",
   "updatedAt": "2026-08-16",
   "modules": [
     {
       "id": "libtv-tutorial",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "path": "references/module-libtv-tutorial.md",
       "status": "active",
       "source": "https://resonate.feishu.cn/wiki/Loxfw6XHziYRk0kKzdjcFfp9nhb",
@@ -28,7 +28,7 @@
     },
     {
       "id": "document-structure",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "path": "references/document-structure.md",
       "status": "active",
       "source": "user-confirmed-project-specification",
@@ -44,7 +44,7 @@
     },
     {
       "id": "course-script-schema",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "path": "references/course-script-schema.json",
       "status": "active",
       "source": "derived-from-document-structure",

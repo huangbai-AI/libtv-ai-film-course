@@ -1,0 +1,42 @@
+[
+  {
+    "token": "UEJJbp3tIoRFTHxAOsHcAIw3n6f",
+    "type": "media",
+    "name": "course_1.png",
+    "mime": "image/png",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/01-第一节-导学课-AI-影视能做什么/assets/UEJJbp3tIoRFTHxAOsHcAIw3n6f.png",
+    "link": "./assets/UEJJbp3tIoRFTHxAOsHcAIw3n6f.png",
+    "size_bytes": 1068123
+  },
+  {
+    "token": "FoWKbxuiwokiBnxMyrQcYbjKnvR",
+    "type": "media",
+    "name": "practice_1.png",
+    "mime": "image/png",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/01-第一节-导学课-AI-影视能做什么/assets/FoWKbxuiwokiBnxMyrQcYbjKnvR.png",
+    "link": "./assets/FoWKbxuiwokiBnxMyrQcYbjKnvR.png",
+    "size_bytes": 546837
+  },
+  {
+    "token": "WNwmb9XAwoDDAux6RLnczOobn2g",
+    "type": "media",
+    "name": "package.png",
+    "mime": "image/png",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/01-第一节-导学课-AI-影视能做什么/assets/WNwmb9XAwoDDAux6RLnczOobn2g.png",
+    "link": "./assets/WNwmb9XAwoDDAux6RLnczOobn2g.png",
+    "size_bytes": 1537493
+  },
+  {
+    "token": "Ss3mbt2v0oSei3xIDiocSnYgn6g",
+    "type": "media",
+    "name": "7月14日 (1)(1).mp4",
+    "mime": "video/mp4",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/01-第一节-导学课-AI-影视能做什么/assets/Ss3mbt2v0oSei3xIDiocSnYgn6g.mp4",
+    "link": "./assets/Ss3mbt2v0oSei3xIDiocSnYgn6g.mp4",
+    "size_bytes": 290153948
+  }
+]

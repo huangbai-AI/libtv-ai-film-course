@@ -1,0 +1,35 @@
+[
+  {
+    "token": "VpuVbRAZ9oxRdkxibiYcna74nOe",
+    "type": "media",
+    "name": "img_v3_0214i_82da7d68-60d0-41da-918f-061f455f53ag.jpg",
+    "alt": "图片展示了图片预设功能中多角度功能的效果。画面中，一位行人走在街道上，街道两侧有店铺，店铺招牌上有霓虹灯。图片节点7、8、9分别呈现了不同角度的场景，如行人从不同位置经过的街道画面，以及街道不同区域的店铺招牌。这些图片节点展示了多角度功能可快速调整镜头视角，通过点击包裹图片的球体，可移动摄像头位置或选择预设角度，以生成多角度图片效果。",
+    "mime": "image/jpeg",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/03-第三节-图片生成与提示词写法/01-✅细化脚本/assets/VpuVbRAZ9oxRdkxibiYcna74nOe.jpg",
+    "link": "./assets/VpuVbRAZ9oxRdkxibiYcna74nOe.jpg",
+    "size_bytes": 687546
+  },
+  {
+    "token": "W92gboNdPot9h5xGKhFc9MLonis",
+    "type": "media",
+    "name": "image.png",
+    "alt": "图片展示了图片生成界面中“参考”“标记”“风格”三个功能按钮。其中“参考”按钮被红色框突出显示。该图片与上下文紧密相关，上下文在介绍图片预设功能时提到，可直接文字生图，或上传图片输入文字指令对图片进行编辑，如将背景改为雪夜。此图直观呈现了图片生成界面中可操作的功能按钮，帮助用户了解如何使用这些功能进行图片编辑。",
+    "mime": "image/jpeg",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/03-第三节-图片生成与提示词写法/01-✅细化脚本/assets/W92gboNdPot9h5xGKhFc9MLonis.png",
+    "link": "./assets/W92gboNdPot9h5xGKhFc9MLonis.png",
+    "size_bytes": 20188
+  },
+  {
+    "token": "HU0YbHhjPopYVcxDM0scNa0pnjb",
+    "type": "media",
+    "name": "image.png",
+    "alt": "这张图片是一个风格广场界面，展示了多种图片创作相关的预设案例，涵盖城市人物、静物摄影、美妆产品、人物肖像、美妆相机等不同类型的内容，还包含一键电商产品、一键海报等各类AI生成作品的示例。该界面的内容与文档中介绍的图片预设功能相呼应，这些案例能帮助用户直观了解各类图片创作的方向，为按需选择对应功能提供参考，契合文档中按需使用预设功能的总结说明。",
+    "mime": "image/jpeg",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/03-第三节-图片生成与提示词写法/01-✅细化脚本/assets/HU0YbHhjPopYVcxDM0scNa0pnjb.png",
+    "link": "./assets/HU0YbHhjPopYVcxDM0scNa0pnjb.png",
+    "size_bytes": 2040251
+  }
+]

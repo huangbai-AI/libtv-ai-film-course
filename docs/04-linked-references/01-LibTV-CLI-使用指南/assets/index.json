@@ -1,0 +1,24 @@
+[
+  {
+    "token": "XL6obDTllo5RKuxD3uVcK4dlntd",
+    "type": "media",
+    "name": "image.png",
+    "alt": "图片展示了LibTV界面及浏览器页面。右侧浏览器页面中，账号信息部分有一个红色方框突出显示的内容。结合上下文，此图片用于说明在浏览器中切换账号或空间对CLI登录状态等的影响，建议在切换到期望的账号和空间后再进行CLI登录或重新登录，可将「个人ID」或「团队ID」复制给Agent核对状态，红色方框突出部分或与账号、空间相关信息的切换或查看有关。",
+    "mime": "image/png",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/04-linked-references/01-LibTV-CLI-使用指南/assets/XL6obDTllo5RKuxD3uVcK4dlntd.png",
+    "link": "./assets/XL6obDTllo5RKuxD3uVcK4dlntd.png",
+    "size_bytes": 347006
+  },
+  {
+    "token": "TF2SbhLKUof8JNxksqrcu9Q5nDe",
+    "type": "media",
+    "name": "img_v3_02124_e0aab762-8df1-410d-90e4-c61157ae102g.jpg",
+    "alt": "图片图片 自动生成图片描述",
+    "mime": "image/jpeg",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/04-linked-references/01-LibTV-CLI-使用指南/assets/TF2SbhLKUof8JNxksqrcu9Q5nDe.jpg",
+    "link": "./assets/TF2SbhLKUof8JNxksqrcu9Q5nDe.jpg",
+    "size_bytes": 106566
+  }
+]

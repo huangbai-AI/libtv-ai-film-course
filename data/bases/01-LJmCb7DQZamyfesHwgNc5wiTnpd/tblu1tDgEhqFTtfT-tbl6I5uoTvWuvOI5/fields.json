@@ -1,0 +1,62 @@
+[
+  {
+    "default_value": null,
+    "id": "fldG87ivOI",
+    "name": "任务名",
+    "style": {
+      "type": "plain"
+    },
+    "type": "text"
+  },
+  {
+    "default_value": null,
+    "id": "fld1TCKio4",
+    "multiple": false,
+    "name": "任务状态",
+    "options": [
+      {
+        "hue": "Blue",
+        "lightness": "Lighter",
+        "name": "未开始"
+      },
+      {
+        "hue": "Orange",
+        "lightness": "Lighter",
+        "name": "进行中"
+      },
+      {
+        "hue": "Wathet",
+        "lightness": "Lighter",
+        "name": "已完成"
+      }
+    ],
+    "type": "select"
+  },
+  {
+    "default_value": null,
+    "id": "fld5h00BvT",
+    "name": "备注",
+    "style": {
+      "type": "plain"
+    },
+    "type": "text"
+  },
+  {
+    "default_value": null,
+    "id": "flds6JNr2P",
+    "name": "开始日期",
+    "style": {
+      "format": "yyyy/MM/dd"
+    },
+    "type": "datetime"
+  },
+  {
+    "default_value": null,
+    "id": "fldEKjGLja",
+    "name": "截止日期",
+    "style": {
+      "format": "yyyy/MM/dd"
+    },
+    "type": "datetime"
+  }
+]

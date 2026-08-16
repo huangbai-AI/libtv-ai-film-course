@@ -1,0 +1,35 @@
+[
+  {
+    "token": "PcFbblD4xod7m2x0aBRc1teFnJg",
+    "type": "media",
+    "name": "故事板.png",
+    "alt": "图片展示的是AI影视进阶功能中智能混剪案例演示的界面。左侧有多个角色形象，包括身穿长袍的白发老者、身穿黑色长袍的男子等。右侧是混剪案例展示，包含多个视频片段，如人物对峙、战斗场景等，每个片段下方有对应角色、场景、动作等信息。该图片与上下文“智能混剪案例演示”相关，用于说明选择五个杂乱素材片段，描述效果，生成bgm，选择音乐风格和对齐视频卡点，最终产出视频并可后续修改的使用场景。",
+    "mime": "image/jpeg",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/05-第五节-AI-视频进阶功能/assets/PcFbblD4xod7m2x0aBRc1teFnJg.png",
+    "link": "./assets/PcFbblD4xod7m2x0aBRc1teFnJg.png",
+    "size_bytes": 1817766
+  },
+  {
+    "token": "HDFwbZr9xo8H7Px2ZhgcdRFSnrd",
+    "type": "media",
+    "name": "导演台.png",
+    "alt": "图片展示了LbTV导演台界面，用于搭建三人对峙场景。画面左侧有角色A、B的3D模型，下方是角色A的多角度展示图，包括全身、面部特写及不同服装造型。右侧是场景预览图，显示两人站在古老石台上，背景为一片古老宫殿。底部有视频播放进度条、音量调节等操作按钮。该图与上文搭建三人对峙场景、设置全景等镜头的内容相呼应，直观呈现了操作界面及场景效果。",
+    "mime": "image/jpeg",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/05-第五节-AI-视频进阶功能/assets/HDFwbZr9xo8H7Px2ZhgcdRFSnrd.png",
+    "link": "./assets/HDFwbZr9xo8H7Px2ZhgcdRFSnrd.png",
+    "size_bytes": 1878178
+  },
+  {
+    "token": "Bobvbqt4mofSGXxtgbxcWeZxnbg",
+    "type": "media",
+    "name": "人像调节.png",
+    "alt": "图片展示的是智能混剪案例演示界面。左侧有三个视频片段，分别是身穿古装的男子在书房、手持道具的男子在佛堂、手持道具的男子在佛堂。右侧弹出“编辑调节”窗口，显示一张人物头像，下方有“表情定位”“心跳跟随”选项，右侧是表情调节按钮。该图片与上下文“智能混剪案例演示”相关，用于说明智能混剪时可对视频人物表情进行调节，以达到特定效果。",
+    "mime": "image/jpeg",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/05-第五节-AI-视频进阶功能/assets/Bobvbqt4mofSGXxtgbxcWeZxnbg.png",
+    "link": "./assets/Bobvbqt4mofSGXxtgbxcWeZxnbg.png",
+    "size_bytes": 2019334
+  }
+]

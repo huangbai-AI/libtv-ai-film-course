@@ -1,0 +1,24 @@
+[
+  {
+    "token": "UZCcbhBNsoZndLxmVV7co2eMnTf",
+    "type": "media",
+    "name": "image.png",
+    "alt": "图片展示的是一个3D角色界面，左侧是红色的3D角色模型，背景为绿色草地和远处山脉。右侧弹出菜单中，有“Seedance2.0合规校验”“保存到我的资产”“进入全景预览”“创建主体”“优化工作流布局”“复制节点”“复制图片”等选项。该图片与文档中“整理产品资产”部分内容相关，用于说明在生成产品资产时，可将产品、人物、场景和道具等素材保存为可复用资产，便于清晰管理和调用，如图中展示的3D角色模型等素材。",
+    "mime": "image/png",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/09-第九节-AI产品广告/01-7-细化脚本(修改中)/assets/UZCcbhBNsoZndLxmVV7co2eMnTf.png",
+    "link": "./assets/UZCcbhBNsoZndLxmVV7co2eMnTf.png",
+    "size_bytes": 148377
+  },
+  {
+    "token": "TXJib0EzPoSHLSxiWPKczxjdnOy",
+    "type": "media",
+    "name": "image.png",
+    "alt": "图片展示的是一个视频编辑软件界面，左侧为“资产”标签页，有“个人”和“Agent”选项卡，下方有“请输入搜索内容”搜索框及“图片素材”“视频素材”分类。右侧是视频编辑画面，显示了多条线条构成的图形。该图片与文档中“整理产品资产”部分内容相关，直观呈现了软件中资产分类及编辑画面，辅助说明在视频制作前整理好产品资产，包括产品视觉、辅助视觉方向信息等素材，便于清晰管理和调用。",
+    "mime": "image/png",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/09-第九节-AI产品广告/01-7-细化脚本(修改中)/assets/TXJib0EzPoSHLSxiWPKczxjdnOy.png",
+    "link": "./assets/TXJib0EzPoSHLSxiWPKczxjdnOy.png",
+    "size_bytes": 48953
+  }
+]

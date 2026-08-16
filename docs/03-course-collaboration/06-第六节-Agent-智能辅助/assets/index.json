@@ -1,0 +1,57 @@
+[
+  {
+    "token": "KGkhbvaGZoi6obx1HpucFKAAnwh",
+    "type": "media",
+    "name": "Skill入口.png",
+    "alt": "图片展示的是LarkTV平台界面，突出显示了“全部Skill”选项。界面中“开始创作”按钮被红色框线圈出，下方有“未命名”作品展示。画面中间部分有“请输入你的创作灵感，或从下方选择一个Skill开始”提示，下方有“皮克斯动画广告”“爆款拉片复制”“新中式美学TVC”等Skill选项，其中“全部Skill”被红色框线圈出。该图片与上下文“案例演示｜设置Skill”相关，直观呈现了在LarkTV平台设置Skill的操作界面及Skill选择区域。",
+    "mime": "image/jpeg",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/06-第六节-Agent-智能辅助/assets/KGkhbvaGZoi6obx1HpucFKAAnwh.png",
+    "link": "./assets/KGkhbvaGZoi6obx1HpucFKAAnwh.png",
+    "size_bytes": 2663152
+  },
+  {
+    "token": "T1pxbZ8mGo6s9ixhB06cC8dOnAf",
+    "type": "media",
+    "name": "Skill模板.png",
+    "alt": "图片展示的是LarkTV平台界面，上方有活动信息及创作者扶持政策。中间部分提示“每天，换一个Skill开场”，下方有“+”号可添加素材，还有“+”号可添加人物、产品等素材。下方是Skill分类推荐，包括选角Casting、AI剧本特效秀等，如“AI剧本特效秀Skill”可一键生成剧本，还能生成剧本特效短片，支持AI写剧本、AI写剧本特效、AI写剧本特效支持文学会审等功能。该图与文档中“案例演示｜设置Skill”内容相关，展示了设置Skill的操作界面。",
+    "mime": "image/jpeg",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/06-第六节-Agent-智能辅助/assets/T1pxbZ8mGo6s9ixhB06cC8dOnAf.png",
+    "link": "./assets/T1pxbZ8mGo6s9ixhB06cC8dOnAf.png",
+    "size_bytes": 1392535
+  },
+  {
+    "token": "SZSVbm6kNoYylcxaaJTc5AMYnAe",
+    "type": "media",
+    "name": "创建Skill.png",
+    "alt": "图片展示的是LarkTV平台的Skill页面。页面上方有“创作补给站上线，首先最高翻倍价！年卡会员限时至49元，连续12期免费”的活动信息。页面中部有“创作者挑战赛”“创作者补给站”等选项。下方是多个Skill的展示区域，每个Skill有名称、描述、技能等级、技能师等信息，如“选择Casting”“影视导演打怪秀skill”“精品女性短剧一键成片”等，部分Skill还标注了技能师名称和技能等级。该图片与文档中“组合使用Agent与Skill”的内容相关，展示了可选择的Skill种类。",
+    "mime": "image/jpeg",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/06-第六节-Agent-智能辅助/assets/SZSVbm6kNoYylcxaaJTc5AMYnAe.png",
+    "link": "./assets/SZSVbm6kNoYylcxaaJTc5AMYnAe.png",
+    "size_bytes": 2116392
+  },
+  {
+    "token": "GWk0btSJWoxaIExIvi2csnAFnEf",
+    "type": "media",
+    "name": "Agent界面.png",
+    "alt": "图片展示了AI绘画平台界面，右上角有“Agent”按钮被红色框突出显示。界面下方有多个功能选项卡，如“故事图卡生成”“角色元模组”“新帧图生成”“表情生成”等，当前选中“故事图卡生成”。该图片与文档中“组合使用Agent与Skill”部分内容相关，直观呈现了进入Agent的操作入口，即点击“Agent”按钮，后续可选择所需Skill进行创作，与文档中“进入Agent，选择需要使用的Skill”步骤对应。",
+    "mime": "image/jpeg",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/06-第六节-Agent-智能辅助/assets/GWk0btSJWoxaIExIvi2csnAFnEf.png",
+    "link": "./assets/GWk0btSJWoxaIExIvi2csnAFnEf.png",
+    "size_bytes": 416568
+  },
+  {
+    "token": "KdJebDS4to6KZVxE4PacuvTonRg",
+    "type": "media",
+    "name": "Agent生成.png",
+    "alt": "图片展示的是一个视频制作平台界面。左侧为视频画面，画面中呈现了雨后街道景象，地面有积水，远处可见高楼。右侧是平台操作区域，有“Moodboard已生成，同步至档”提示，下方有“+”号按钮，可添加新Moodboard，还有“+”号图标可添加新任务，以及“+”号图标可添加新角色。该图片与文档中“生成风格Moodboard，同步开始创建任务与角色”内容对应，展示了生成Moodboard后的操作界面。",
+    "mime": "image/jpeg",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/06-第六节-Agent-智能辅助/assets/KdJebDS4to6KZVxE4PacuvTonRg.png",
+    "link": "./assets/KdJebDS4to6KZVxE4PacuvTonRg.png",
+    "size_bytes": 1403208
+  }
+]

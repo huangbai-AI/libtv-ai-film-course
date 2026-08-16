@@ -1,0 +1,112 @@
+[
+  {
+    "token": "HwNbb3lAcofffUxzYXtcxroenkf",
+    "type": "media",
+    "name": "image.png",
+    "alt": "图片展示的是LibTV首页界面。上方有“创作活动上线，首次完成创作，年卡会员抵扣至1折，最高1期免费”等宣传信息。中部有“走！扫街去”“3D导演台运动&amp;运镜功能上线”“全能视频Agent专业Skill hub”等项目介绍。下方是个人最近项目展示，有“开放创作”“M Seedland 2.0”等项目，每个项目配有图片和创建时间。底部有“视频短剧”“剧情片”“新式美学TVC”等分类标签。该图片与文档中介绍LibTV首页的内容相关，直观呈现了首页界面。",
+    "mime": "image/png",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/02-第二节-LibTV-基础-画布与节点/assets/HwNbb3lAcofffUxzYXtcxroenkf.png",
+    "link": "./assets/HwNbb3lAcofffUxzYXtcxroenkf.png",
+    "size_bytes": 802881
+  },
+  {
+    "token": "Ie0EbB2Fuod9wwxe6kUc06kKnRg",
+    "type": "media",
+    "name": "image.png",
+    "alt": "图片展示了LibTV的画布界面，呈现了制作过程中的节点和连接线。画面中有多个节点，部分节点带有文字说明，如“背景音乐”“人物A”等，节点间通过线条相连，形成网络结构。界面右上角有“导出预览”“导出项目”按钮，右下角有“复制链接”按钮。该图与文档中认识画布的内容相关，直观呈现了画布区域、节点、连接线等关键信息，帮助理解如何在LibTV中查看制作过程和画布界面。",
+    "mime": "image/png",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/02-第二节-LibTV-基础-画布与节点/assets/Ie0EbB2Fuod9wwxe6kUc06kKnRg.png",
+    "link": "./assets/Ie0EbB2Fuod9wwxe6kUc06kKnRg.png",
+    "size_bytes": 900524
+  },
+  {
+    "token": "SSYlbecutojHLMxtW71cuWidn5e",
+    "type": "media",
+    "name": "image.png",
+    "alt": "图片展示的是LibTV首页界面。上方有导航栏，可选择首页、制作过程、画布等。中部有搜索框及热门标签，如“成龙版成龙”“腾讯广告片”等。下方是多个项目展示区域，每个项目有标题、简介、作者及点赞数等信息，如“VALORANT Omen”“RUN”“拉闻天下”等，每个项目下方还有相关评论。该图片与文档中介绍LibTV首页、查看制作过程和画布界面的内容相关，直观呈现了首页界面样式及项目展示情况。",
+    "mime": "image/png",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/02-第二节-LibTV-基础-画布与节点/assets/SSYlbecutojHLMxtW71cuWidn5e.png",
+    "link": "./assets/SSYlbecutojHLMxtW71cuWidn5e.png",
+    "size_bytes": 1113624
+  },
+  {
+    "token": "ZK47b5UneowEoHxLPjycgkhqnZC",
+    "type": "media",
+    "name": "image.png",
+    "alt": "图片展示的是大羊的测试 - 画布1界面。画面中有一个文字节点，其功能界面显示可输入已有备忘内容、生成标题、生成图片提示词、文字音乐等。下方有GVLMM 3.1 - 的输入框，提示写下你想讲的故事，强调视觉角色验证。该图片与上下文紧密相关，是对文字节点功能的直观呈现，辅助说明文字节点能输入什么、能生成什么等内容。",
+    "mime": "image/png",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/02-第二节-LibTV-基础-画布与节点/assets/ZK47b5UneowEoHxLPjycgkhqnZC.png",
+    "link": "./assets/ZK47b5UneowEoHxLPjycgkhqnZC.png",
+    "size_bytes": 241115
+  },
+  {
+    "token": "LiykbU1NlojZh2xpPtTciRGgnv1",
+    "type": "media",
+    "name": "image.png",
+    "alt": "图片展示了LibTV中图片节点的界面。画面中央为一个灰色的图片框，框内有“尝试”字样及一个向上的箭头图标。下方有“图生图”和“图片高清”选项。界面底部有“+参考”按钮，可上传参考图。此外，还有“标记”“风格”标签，以及“可直接文字生图，或上传图片输入文字指令对图片进行编辑，如：将背景改为雪夜”等提示。该图片与上文提到的从文字节点依次完成图片节点等内容相关，直观呈现了图片节点的操作界面。",
+    "mime": "image/png",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/02-第二节-LibTV-基础-画布与节点/assets/LiykbU1NlojZh2xpPtTciRGgnv1.png",
+    "link": "./assets/LiykbU1NlojZh2xpPtTciRGgnv1.png",
+    "size_bytes": 42702
+  },
+  {
+    "token": "KBm3bPVMIoQPFFxXAsCcAGH2ndh",
+    "type": "media",
+    "name": "image.png",
+    "alt": "图片展示的是LibTV中图片节点2的界面。上方显示“图片节点2”，中间有“尝试”区域，列出“围生图”和“图片高清”选项。下方有“参考”“标记”“风格”标签，可直接文字生图或上传图片输入文字指令编辑图片。底部有“Lib Image”选项，以及16:9、标准画质、2K、9张等设置。该图片与文档中介绍图片节点功能的内容相关，直观呈现了图片节点的操作界面和相关设置。",
+    "mime": "image/png",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/02-第二节-LibTV-基础-画布与节点/assets/KBm3bPVMIoQPFFxXAsCcAGH2ndh.png",
+    "link": "./assets/KBm3bPVMIoQPFFxXAsCcAGH2ndh.png",
+    "size_bytes": 36613
+  },
+  {
+    "token": "Q2d5bAo2woUPG4xA5nKck9swnNe",
+    "type": "media",
+    "name": "image.png",
+    "alt": "图片展示的是LibTV中生成图片的设置界面。画面中呈现了画质、清晰度、比例和生成数量的选项。画质有低画质、标准画质、高画质三种；清晰度有1K、2K、4K三个选项，当前选中2K；比例有多种选择，如1:1、1:2、2:1等，当前选中9:16；生成数量有1张、2张、4张，当前选中1张。该界面与上下文介绍的生成图片功能相关，是生成图片时设置参数的界面。",
+    "mime": "image/png",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/02-第二节-LibTV-基础-画布与节点/assets/Q2d5bAo2woUPG4xA5nKck9swnNe.png",
+    "link": "./assets/Q2d5bAo2woUPG4xA5nKck9swnNe.png",
+    "size_bytes": 104260
+  },
+  {
+    "token": "RObBbSzBwo7nXyxMxthclw8nnag",
+    "type": "media",
+    "name": "image.png",
+    "alt": "图片展示了罗永浩老师三视图，包含正视图、侧视图和背视图。正视图中罗永浩面带微笑，双手插兜；侧视图呈现其侧身姿态，同样双手插兜；背视图展示了其背影，双手插兜。三图人物均着黑色衬衫和裤子，脚穿黑色鞋子，背景为白色。该图与文档中文字节点案例演示相关，用于生成文字提示词，以直观呈现罗永浩老师三视图的样式。",
+    "mime": "image/png",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/02-第二节-LibTV-基础-画布与节点/assets/RObBbSzBwo7nXyxMxthclw8nnag.png",
+    "link": "./assets/RObBbSzBwo7nXyxMxthclw8nnag.png",
+    "size_bytes": 2128380
+  },
+  {
+    "token": "XU9Jbdi5EoPSrpx3w2XcaqeLn3y",
+    "type": "media",
+    "name": "image.png",
+    "alt": "图片展示了LibTV平台的视频生成流程界面。左侧是视频节点5，显示“视频生成视频”选项被选中，下方有“生成视频”按钮。右侧是视频节点4，同样显示“视频生成视频”选项被选中，下方也有“生成视频”按钮。画面中还呈现了两张视频素材，一张是手拿罐装饮料的场景，另一张是女性喝饮料的场景。该图片与文档中“视频节点”内容相关，直观呈现了视频生成视频的节点设置情况。",
+    "mime": "image/png",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/02-第二节-LibTV-基础-画布与节点/assets/XU9Jbdi5EoPSrpx3w2XcaqeLn3y.png",
+    "link": "./assets/XU9Jbdi5EoPSrpx3w2XcaqeLn3y.png",
+    "size_bytes": 281226
+  },
+  {
+    "token": "LOSybBgBVoyFoExiFGCcLjoAnCf",
+    "type": "media",
+    "name": "image.png",
+    "alt": "图片展示了罗永浩老师三视图的提示词生成过程。画面中呈现了罗永浩的多张照片，下方是生成的提示词，包含罗永浩的外貌特征、服装、场景等信息，如“中年男性，黑色短发，黑框眼镜，深色衬衫，动作符合动感街舞动作，周夜街道，地面有霓虹反光，周围是电子广告牌和蓝紫色灯光，他在跳非常动感的街舞，快速摆臂，转身，滑步，双手挥舞，动作夸张流畅，情感反差强烈，镜头快速推进、拉远、环绕，干净线条，高饱和霓虹配色，夸张表情”等。该图与上文案例演示内容对应，直观呈现了文字节点生成提示词的过程。",
+    "mime": "image/png",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/02-第二节-LibTV-基础-画布与节点/assets/LOSybBgBVoyFoExiFGCcLjoAnCf.png",
+    "link": "./assets/LOSybBgBVoyFoExiFGCcLjoAnCf.png",
+    "size_bytes": 360796
+  }
+]

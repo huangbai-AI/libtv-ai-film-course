@@ -1,0 +1,45 @@
+[
+  {
+    "token": "X3OabEjunoJ1uTxnJ9Tc586CnHe",
+    "type": "media",
+    "name": "公共角色库.png",
+    "alt": "这张图片是Seedance2.0合规素材库的公共角色库界面，共展示了10个不同风格的虚拟人物形象，分为上下两排排列。每个角色下方都标注了对应的标签，涵盖风格与受众，从左到右、从上到下依次为甜美清新少女、现代精英大楼风格男性、温柔熟男型男友、清冷千金风格女性、古风男主、古风造型女性、深色长发女性、中老年男性、中老年女性，所有角色均标注适用性别为对应性别，适用年龄段主要为青年，部分含中老年。界面底部有分页控件，可切换素材库页码，当前显示第1页，共10页，素材库名称位于界面左上角。",
+    "mime": "image/jpeg",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/04-第四节-视频生成与提示词写法/01-✅细化脚本/assets/X3OabEjunoJ1uTxnJ9Tc586CnHe.png",
+    "link": "./assets/X3OabEjunoJ1uTxnJ9Tc586CnHe.png",
+    "size_bytes": 777096
+  },
+  {
+    "token": "CDwAbQglgop5d4x6qaFcAD7anVE",
+    "type": "media",
+    "name": "素材库.png",
+    "alt": "图片展示的是Seedance 2.0的公共角色库界面。界面上方显示“Seedance2.0公共角色库”，下方有“本地上传”“历史资产选择”“真人资产录入”等选项。画面中部呈现多张图片，包括一只猫、汽车、饮料、人物等，部分图片标注“未通过审核”。底部有“1”“3”“10”“20”“跳至”“页”等导航按钮，以及“确定”按钮。该图片与上下文介绍的Seedance 2.0相关，展示了其公共角色库中可选择的素材类型和部分素材示例。",
+    "mime": "image/jpeg",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/04-第四节-视频生成与提示词写法/01-✅细化脚本/assets/CDwAbQglgop5d4x6qaFcAD7anVE.png",
+    "link": "./assets/CDwAbQglgop5d4x6qaFcAD7anVE.png",
+    "size_bytes": 954450
+  },
+  {
+    "token": "EsaXbTWYqoZB0txNYAwc8J7qnjh",
+    "type": "media",
+    "name": "运镜广场.png",
+    "alt": "这张图片展示了一个创作工具的“运镜广场”界面，界面内呈现多组带有科幻风格的画面缩略图，每组缩略图对应不同运镜操作，从左至右、从上至下依次标注为固定镜头、跟随拍摄、盘旋抬升、盘旋下降、镜头上摇、镜头下摇、镜头左摇、镜头右摇。界面上方设有“我的收藏”“我的运镜”等标签，还有搜索运镜名称的输入框，整体用于提供对应的运镜镜头参考，可辅助视频创作时选择合适的运镜方式。",
+    "mime": "image/jpeg",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/04-第四节-视频生成与提示词写法/01-✅细化脚本/assets/EsaXbTWYqoZB0txNYAwc8J7qnjh.png",
+    "link": "./assets/EsaXbTWYqoZB0txNYAwc8J7qnjh.png",
+    "size_bytes": 594433
+  },
+  {
+    "token": "VBJGboi6SoQ2nOxCR4AclJrEnMg",
+    "type": "media",
+    "name": "jimeng-2026-07-31-7811-场景，角色生成一支15秒、16_9、4K、超写实真人电影级食物魔法对战广告。严格....mp4",
+    "mime": "video/mp4",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/04-第四节-视频生成与提示词写法/01-✅细化脚本/assets/VBJGboi6SoQ2nOxCR4AclJrEnMg.mp4",
+    "link": "./assets/VBJGboi6SoQ2nOxCR4AclJrEnMg.mp4",
+    "size_bytes": 27766023
+  }
+]

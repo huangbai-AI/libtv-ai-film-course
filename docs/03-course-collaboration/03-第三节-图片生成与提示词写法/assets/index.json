@@ -1,0 +1,35 @@
+[
+  {
+    "token": "IailbcJPfo71VoxnvfYc4F2Xnmf",
+    "type": "media",
+    "name": "image.png",
+    "alt": "这张图片是第三节“图片生成与提示词写法”相关的内容，对应步骤三生成图片的核心提示词要求内容，列出了8项关键要点。其内容涵盖核心主体、细节特征、动作情绪、镜头构图、场景氛围、光影画质、风格定义、高清约束，每一项都配有具体示例，比如核心主体举了“18岁古风少女、西装高冷男主”的例子，高清约束则提到“8K高清、超高细节、质感拉满、无噪点”，内容围绕生成图片时把控画面质量与效果的关键规范展开。",
+    "mime": "image/jpeg",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/03-第三节-图片生成与提示词写法/assets/IailbcJPfo71VoxnvfYc4F2Xnmf.png",
+    "link": "./assets/IailbcJPfo71VoxnvfYc4F2Xnmf.png",
+    "size_bytes": 177980
+  },
+  {
+    "token": "OcHabGKF3ogmYJxxVDIcFNIanDc",
+    "type": "media",
+    "name": "image.png",
+    "alt": "图片展示了AI绘画界面中“参考”“标记”“风格”三个功能按钮。其中“参考”按钮被红色框突出显示。该图片与文档中“生成图片｜案例演示”部分内容相关，用于说明在使用步骤二完成的提示词生成图片时，可直接文字生图，或上传图片输入文字指令对图片进行编辑，如将背景改为雪夜，此功能按钮是操作时可使用的参考、标记、风格等编辑选项之一。",
+    "mime": "image/jpeg",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/03-第三节-图片生成与提示词写法/assets/OcHabGKF3ogmYJxxVDIcFNIanDc.png",
+    "link": "./assets/OcHabGKF3ogmYJxxVDIcFNIanDc.png",
+    "size_bytes": 20188
+  },
+  {
+    "token": "IGe6bPDXNoGYPbx62fOc1Eyinfe",
+    "type": "media",
+    "name": "image.png",
+    "alt": "这张图片展示的是图片生成工具的风格广场界面，呈现了多种不同类型的生成图片案例。界面里的图片涵盖人像、产品、海报、二次元等多元风格，如“城市旅人”类人物图像、“潮玩产品”类耳机相关设计、“美女相机”类人像图等，每个案例标注了对应风格与点赞数据。该界面是第三节讲解里生成图片功能的示例参考，用于演示不同提示词可生成的多样化图片效果，体现了工具支持多种场景、风格的图片创作，帮助创作者参考并优化自身的生成提示词。",
+    "mime": "image/jpeg",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/03-第三节-图片生成与提示词写法/assets/IGe6bPDXNoGYPbx62fOc1Eyinfe.png",
+    "link": "./assets/IGe6bPDXNoGYPbx62fOc1Eyinfe.png",
+    "size_bytes": 2040251
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "token": "GWp0bRScBoqS8Wxm9UKcpiwhnCc",
+    "type": "media",
+    "name": "test.jpg",
+    "alt": "图片展示了AI特效后期中穿梭转场的AI生成效果与原素材对比。上方为AI生成效果，画面中出现金色龙形特效，人物站立于餐厅内，背景有大窗户和吊灯；下方为原素材，人物同样站立于餐厅内，背景与上方相似。图片位于“穿梭转场”步骤的上下文，用于直观呈现AI特效后期中穿梭转场的效果，帮助理解特效与原素材的差异。",
+    "mime": "image/jpeg",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/12-第十二节-AI-特效后期/assets/GWp0bRScBoqS8Wxm9UKcpiwhnCc.png",
+    "link": "./assets/GWp0bRScBoqS8Wxm9UKcpiwhnCc.png",
+    "size_bytes": 942255
+  },
+  {
+    "token": "YdUPbFhLmoqDeExZrIMcZ4man7b",
+    "type": "media",
+    "name": "高清jimeng-2026-08-03-1829-使用这位帅哥的形象，生成11秒、横屏16_9、1920×1080、30帧的电影感..._1_iris3.mp4",
+    "mime": "video/mp4",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/12-第十二节-AI-特效后期/assets/YdUPbFhLmoqDeExZrIMcZ4man7b.mp4",
+    "link": "./assets/YdUPbFhLmoqDeExZrIMcZ4man7b.mp4",
+    "size_bytes": 79997565
+  }
+]

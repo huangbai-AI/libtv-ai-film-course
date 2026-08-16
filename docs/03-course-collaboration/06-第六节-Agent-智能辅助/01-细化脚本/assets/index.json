@@ -1,0 +1,210 @@
+[
+  {
+    "token": "TQC4bK9S5oQ62JxySFfctxkSnmg",
+    "type": "media",
+    "name": "image.png",
+    "alt": "图片展示了视频创作中两个不同角度的舞蹈场景画面。左侧画面中，一位身着红色舞裙的舞者在舞台上翩翩起舞，背景为红色幕布，舞台灯光效果突出。右侧画面与左侧类似，但角度略有不同，同样呈现舞者在舞台上的舞姿。两张画面右上角标注“图片节点2”，并显示尺寸为2048 x 1152。这些画面可能是视频创作过程中的素材，用于后续视频剪辑。",
+    "mime": "image/png",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/06-第六节-Agent-智能辅助/01-细化脚本/assets/TQC4bK9S5oQ62JxySFfctxkSnmg.png",
+    "link": "./assets/TQC4bK9S5oQ62JxySFfctxkSnmg.png",
+    "size_bytes": 444512
+  },
+  {
+    "token": "DPg2biKysoijzJxgBCucta2DnGf",
+    "type": "media",
+    "name": "image.png",
+    "alt": "这张图片是一个用于反馈图片生成或调整需求的交互界面，界面中显示了用户对两张图片节点（图片节点2、图片节点1）均标注“不喜欢”的情况，当前处于“询问中”的状态，界面提供了多个预设的不喜欢原因选项，包括构图太普通想要更有张力的角度、颜色/色调不对想要不同氛围、舞者动作不好看想要换个姿势等，还设有提交按钮和忽略按钮，该界面用于收集用户对图片的具体调整需求，对应文档中视频创作相关Agent调整图片的场景，用于明确用户对生成图片的不满意点。",
+    "mime": "image/png",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/06-第六节-Agent-智能辅助/01-细化脚本/assets/DPg2biKysoijzJxgBCucta2DnGf.png",
+    "link": "./assets/DPg2biKysoijzJxgBCucta2DnGf.png",
+    "size_bytes": 297634
+  },
+  {
+    "token": "EUrebRJGMoEHIfx2UZacDeaBn6f",
+    "type": "media",
+    "name": "image.png",
+    "alt": "图片展示的是一个视频创作平台的界面。界面上方显示“新对话”，下方有多个图标，从左至右依次为消息、计时、分享、复制、链接、导航等。该图片位于介绍视频创作平台功能的上下文之后，可能是用于说明在该平台进行视频创作时，可在此界面进行相关操作，如新建对话、分享视频等，体现了平台在视频创作过程中的操作便捷性。",
+    "mime": "image/png",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/06-第六节-Agent-智能辅助/01-细化脚本/assets/EUrebRJGMoEHIfx2UZacDeaBn6f.png",
+    "link": "./assets/EUrebRJGMoEHIfx2UZacDeaBn6f.png",
+    "size_bytes": 14784
+  },
+  {
+    "token": "PUmbbSKqHoXEUYxxanDcX0BKnxe",
+    "type": "media",
+    "name": "image.png",
+    "alt": "图片展示的是一个视频创作平台的界面。界面上方显示“新对话”，下方有多个图标，从左至右依次为消息、计时、分享、复制、链接、导航等。该图片位于介绍视频创作平台功能的上下文之后，可能是用于说明在该平台进行视频创作时，可在此界面进行相关操作，如新建对话、分享视频等，体现了平台在视频创作过程中的操作便捷性。",
+    "mime": "image/png",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/06-第六节-Agent-智能辅助/01-细化脚本/assets/PUmbbSKqHoXEUYxxanDcX0BKnxe.png",
+    "link": "./assets/PUmbbSKqHoXEUYxxanDcX0BKnxe.png",
+    "size_bytes": 14784
+  },
+  {
+    "token": "IgHAbpyCqokcF6x1EANcV2yWnPb",
+    "type": "media",
+    "name": "image.png",
+    "alt": "该图片是Agent设置界面，界面顶部有提示“未签署人像安全协议，遇到人像时将不会使用Seedance 2.0生成”，右侧配有“去签署”按钮。界面内还有协作模式、自动生成图片/视频、通知设置等选项，其中自动生成图片/视频的开关处于开启状态，浏览器通知、通知声音的开关处于关闭状态，界面底部设有“取消”和“完成”两个操作按钮。",
+    "mime": "image/png",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/06-第六节-Agent-智能辅助/01-细化脚本/assets/IgHAbpyCqokcF6x1EANcV2yWnPb.png",
+    "link": "./assets/IgHAbpyCqokcF6x1EANcV2yWnPb.png",
+    "size_bytes": 206710
+  },
+  {
+    "token": "EPYMbCfJYo2u1Jxfb1HciJddn4d",
+    "type": "media",
+    "name": "image.png",
+    "alt": "这是一张视频创作工具界面截图，界面聚焦于图片优化的构图调整功能。页面上方显示“图片节点2 我觉得这个构图太普通了”的标注，系统发起需求响应，询问用户想要的构图升级方向，当前正处于“询问中”的状态。界面下方明确列出了6种可选择的构图调整选项，包括极端低角度仰拍、近景特写、侧面剪影构图等，还设有“忽略”和“提交”按钮，支持用户选定或自定义构图修改需求，可辅助优化视频素材的画面呈现效果。",
+    "mime": "image/png",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/06-第六节-Agent-智能辅助/01-细化脚本/assets/EPYMbCfJYo2u1Jxfb1HciJddn4d.png",
+    "link": "./assets/EPYMbCfJYo2u1Jxfb1HciJddn4d.png",
+    "size_bytes": 212001
+  },
+  {
+    "token": "QY8vb9JM3oO2Lnxxn4lczv3xnLh",
+    "type": "media",
+    "name": "image.png",
+    "alt": "图片展示了视频创作平台中一个视频节点的编辑界面。画面左侧是视频画面，显示一位芭蕾舞者在舞台上表演，背景为红色幕布，灯光效果突出舞者。右侧是视频风格参考图，为一位穿着红色服装的女性。下方有“+参考”“标记”“风格”等标签，以及一段关于芭蕾舞者的描述。底部有“Lib Image”“16:9 - 标准画质 - 2K - 张”等选项。该图片与上下文介绍的视频创作过程相关，展示了视频创作中参考素材、风格参考等内容。",
+    "mime": "image/png",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/06-第六节-Agent-智能辅助/01-细化脚本/assets/QY8vb9JM3oO2Lnxxn4lczv3xnLh.png",
+    "link": "./assets/QY8vb9JM3oO2Lnxxn4lczv3xnLh.png",
+    "size_bytes": 527910
+  },
+  {
+    "token": "ZDkQbEGp4ouLtgxi0skc6RGHnkf",
+    "type": "media",
+    "name": "image.png",
+    "alt": "图片展示的是视频创作Agent界面，左侧为视频创作画布，显示“世界舞者 - 对角线构图 v2”视频素材，下方有提示词“A professional ballet dancer performing on a grand theatrical stage, shot from a low dramatic angle.”。右侧是提示词生成界面，有“图片待确认后生成”提示，下方是生成的图片。该图片与上下文紧密相关，直观呈现了视频创作Agent在生成视频素材时的界面及操作情况，体现了其在视频创作过程中的应用。",
+    "mime": "image/png",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/06-第六节-Agent-智能辅助/01-细化脚本/assets/ZDkQbEGp4ouLtgxi0skc6RGHnkf.png",
+    "link": "./assets/ZDkQbEGp4ouLtgxi0skc6RGHnkf.png",
+    "size_bytes": 542463
+  },
+  {
+    "token": "GsO1byTZfoLDpAxi5OFcBv5Snfh",
+    "type": "media",
+    "name": "image.png",
+    "alt": "图片展示了AI视频创作平台的界面，左侧为“命名工作区”，右侧是“画布1”。画布中呈现一张带有三角形图案的图片，下方有文字描述，要求AI生成一张“在黑暗中跳舞的芭蕾舞者”的图片。右侧“结构化”区域有“为视频添加对角线”选项，下方是生成的图片及效果说明，包括背景、光线、人物动作等。该图片与上下文介绍的AI视频创作过程相关，展示了从文字描述到生成图片的创作流程。",
+    "mime": "image/png",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/06-第六节-Agent-智能辅助/01-细化脚本/assets/GsO1byTZfoLDpAxi5OFcBv5Snfh.png",
+    "link": "./assets/GsO1byTZfoLDpAxi5OFcBv5Snfh.png",
+    "size_bytes": 602335
+  },
+  {
+    "token": "PYoVbwaqcolRDGxKzCxcz7ySngh",
+    "type": "media",
+    "name": "image.png",
+    "mime": "image/png",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/06-第六节-Agent-智能辅助/01-细化脚本/assets/PYoVbwaqcolRDGxKzCxcz7ySngh.png",
+    "link": "./assets/PYoVbwaqcolRDGxKzCxcz7ySngh.png",
+    "size_bytes": 1810957
+  },
+  {
+    "token": "JxODbYFI0ocs74xMnaVcIr5xnUt",
+    "type": "media",
+    "name": "image.png",
+    "alt": "图片展示的是视频配音字幕延长的对话界面。界面中，AI建议提供人物对话的台词内容，会按角色和时间点配上字幕，如胡子男（对峙时）的台词。AI还设计了幽默风格的对话台词，包括小精灵、胡子男的台词，如小精灵（举杖应对）说“个子小？那我的魔法可不小！”等。最后询问是否满意，确认后将立即开始制作（加字幕+延长5秒剧情）。该图片与上下文紧密相关，是AI为视频创作提供台词设计的示例。",
+    "mime": "image/png",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/06-第六节-Agent-智能辅助/01-细化脚本/assets/JxODbYFI0ocs74xMnaVcIr5xnUt.png",
+    "link": "./assets/JxODbYFI0ocs74xMnaVcIr5xnUt.png",
+    "size_bytes": 258181
+  },
+  {
+    "token": "R38AbCkJBoETltxdZvGcsPEenV8",
+    "type": "media",
+    "name": "image.png",
+    "alt": "这张图展示了一个视频创作相关的智能工具操作界面，界面上呈现了多个与视频素材生成相关的内容模块：左侧有《我的世界》风格的像素动物素材图，中间标注有“智能视频”“视频渲染”等模块，右上角提示“视频配置字幕延长”时“这里无法生成，参考视频的时长超过95s”；右侧界面显示“国产端的某节点生成失败，需要重新生成，上一阶段已加载了那段最后30秒”的相关提示，下方还能看到正在加载生成的虚拟人物素材，以及标注有“思考中”的加载提示。该界面对应文档中提到的视频创作Agent工具的操作过程，可完整留存素材、节点等创作数据，是工具工作过程的可视化呈现。",
+    "mime": "image/png",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/06-第六节-Agent-智能辅助/01-细化脚本/assets/R38AbCkJBoETltxdZvGcsPEenV8.png",
+    "link": "./assets/R38AbCkJBoETltxdZvGcsPEenV8.png",
+    "size_bytes": 1918364
+  },
+  {
+    "token": "FRombEPUeoJCw0xt9VycLUpgnTd",
+    "type": "media",
+    "name": "image.png",
+    "alt": "图片展示的是视频创作平台中“每个Skill，都是一个开场”的界面。界面上方有“换一批”按钮。下方有四个Skill选项，分别是“皮克斯动画...”“爆款拉片复刻”“新中式美学...”“古典武侠电...”，每个选项都有对应的图标和简短描述。最下方有一个“东方巨构美学短剧”的Skill选项。界面底部有“+”“立方体”“复制”“刷新”等操作按钮。该图片与上下文介绍的视频创作Agent工作过程相关，展示了平台提供的不同创作技能选项。",
+    "mime": "image/png",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/06-第六节-Agent-智能辅助/01-细化脚本/assets/FRombEPUeoJCw0xt9VycLUpgnTd.png",
+    "link": "./assets/FRombEPUeoJCw0xt9VycLUpgnTd.png",
+    "size_bytes": 147617
+  },
+  {
+    "token": "HpfhbRVI0o3aEMx4AwmcSKhpnDe",
+    "type": "media",
+    "name": "image.png",
+    "alt": "图片展示的是LibTV Agent平台界面。左侧为导航栏，有首页、项目、技能、创作者挑战赛等选项。右侧上方显示“LibTV Agent”及“3,995”等信息。中间区域有“专业影视”“商品广告”“音乐MV”等分类，分别展示相关视频示例及价格。底部有“5G+AI新赛道上线”及“帮助”按钮。该图与文档中介绍LibTV Agent平台的内容相关，直观呈现了平台的界面布局及功能板块。",
+    "mime": "image/png",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/06-第六节-Agent-智能辅助/01-细化脚本/assets/HpfhbRVI0o3aEMx4AwmcSKhpnDe.png",
+    "link": "./assets/HpfhbRVI0o3aEMx4AwmcSKhpnDe.png",
+    "size_bytes": 2222981
+  },
+  {
+    "token": "Out0bRVxvonCD3xo8zCcJxe9nre",
+    "type": "media",
+    "name": "image.png",
+    "alt": "图片展示的是一个真人感美妆UGC产品测评的视频内容界面。画面中一位女性正在使用美妆产品，背景为厨房环境。界面左上角显示视频标题及发布者信息，右上角有分享、收藏和添加Skill按钮。下方有视频时长、播放进度条及音量调节图标。界面底部有简介、使用场景、如何使用、输出内容等板块，分别介绍了视频的介绍、使用场景、上传及输出内容等信息。该图片与上下文介绍的视频创作过程及素材保存等内容相关。",
+    "mime": "image/png",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/06-第六节-Agent-智能辅助/01-细化脚本/assets/Out0bRVxvonCD3xo8zCcJxe9nre.png",
+    "link": "./assets/Out0bRVxvonCD3xo8zCcJxe9nre.png",
+    "size_bytes": 1060134
+  },
+  {
+    "token": "UzYubTfWGor1etx4bxCckJtInbc",
+    "type": "media",
+    "name": "image.png",
+    "alt": "该图片展示了视频创作相关的Skill功能界面，顶部文字为“每个 Skill，都是一个开场”，右上角有“换一批”选项。界面中呈现了四个不同的Skill选项，分别标注为“皮克斯动画”“爆款拉片复刻”“新中式美学”“古典武侠电影”，各选项旁配有对应风格的缩略图与相关标识。界面底部有“东方巨构美学短剧”的相关功能入口，还设有加号、方块、导出等操作图标，该界面呈现的创作Skill，呼应了上文提到的创作Agent可实现武侠风格视频等内容的创作与二次复用相关功能。",
+    "mime": "image/png",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/06-第六节-Agent-智能辅助/01-细化脚本/assets/UzYubTfWGor1etx4bxCckJtInbc.png",
+    "link": "./assets/UzYubTfWGor1etx4bxCckJtInbc.png",
+    "size_bytes": 147617
+  },
+  {
+    "token": "NwT7bMuI2okvkUx8cE0ctWlvnpf",
+    "type": "media",
+    "name": "创建Skill.png",
+    "alt": "图片展示的是LarkTV平台的技能页面。页面上方有“创作补给站上线，首先最高翻倍价！年卡会员限时至49元，连续12期免费”的活动信息。页面中部有“选角Casting”“影视剪辑”“影视特效”等技能分类，下方展示了多个技能卡片，如“影视剪辑”中的“影视剪辑工具包”“影视剪辑特效包”等，每张卡片配有技能介绍、使用场景、技能等级、技能时长等信息。该图片与文档中LarkTV平台技能相关的内容紧密相关。",
+    "mime": "image/jpeg",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/06-第六节-Agent-智能辅助/01-细化脚本/assets/NwT7bMuI2okvkUx8cE0ctWlvnpf.png",
+    "link": "./assets/NwT7bMuI2okvkUx8cE0ctWlvnpf.png",
+    "size_bytes": 2116392
+  },
+  {
+    "token": "P2cubSVxXoRGstxNnUPcwlFrnqg",
+    "type": "media",
+    "name": "Agent界面.png",
+    "alt": "图片展示了libtv的skill hub界面，画面中“Agent”按钮被红色框突出显示。在向Agent提出现有素材和需求后，Agent导演会向用户确认细节，如成片画幅和总时长，用户可逐一进行对话回应。界面下方有多个生成节点选项，包括故事板生成、角色云视镜、音频生成等，当前选中“故事板生成”节点。该图片与上下文紧密相关，直观呈现了与Agent交互的界面及操作流程。",
+    "mime": "image/jpeg",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/06-第六节-Agent-智能辅助/01-细化脚本/assets/P2cubSVxXoRGstxNnUPcwlFrnqg.png",
+    "link": "./assets/P2cubSVxXoRGstxNnUPcwlFrnqg.png",
+    "size_bytes": 416568
+  },
+  {
+    "token": "RHeTbsR2Bou50Pxi9pxcMvZbn7e",
+    "type": "media",
+    "name": "image.png",
+    "alt": "图片展示的是视频制作生产路线选择界面。上方标题为“请选择生产路线”，下方列出4种路线：采用推荐路线（角色连续性，先做主角资产+咖啡杯道具，再九宫格→逐镜视频）、改用更快的直生路线（跳过角色资产，全程文字锚，速度最快）、改用更严格的控制路线（加首帧锁定关键镜头）、我先补充/上传已有素材再定。还提示有成片画幅和总时长两个小问题，成片画幅为信息流广告推荐9:16竖屏，总时长为广告信息流通常30 - 60秒，授权按内容智能规划或指定时长。右下角有“1. 采用；智能规划”的选项。",
+    "mime": "image/png",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/06-第六节-Agent-智能辅助/01-细化脚本/assets/RHeTbsR2Bou50Pxi9pxcMvZbn7e.png",
+    "link": "./assets/RHeTbsR2Bou50Pxi9pxcMvZbn7e.png",
+    "size_bytes": 125211
+  }
+]

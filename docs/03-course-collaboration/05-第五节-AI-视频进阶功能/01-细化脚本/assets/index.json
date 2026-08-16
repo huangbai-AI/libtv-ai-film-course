@@ -1,0 +1,46 @@
+[
+  {
+    "token": "QkoBbKmBYoSDewxAYMQc9QTjnvf",
+    "type": "media",
+    "name": "image.png",
+    "alt": "图片展示的是“绿茵绝杀：最后一战”剧本生成界面。画面中央有剧本标题及“打开剧本节点”按钮，下方有“世界杯足球赛”字样。界面顶部有“重新生成”“批量生成分镜”“批量生成视频”等选项。底部有“GVLM 3.1”标识及“+6”“↑”按钮。该图片与上下文“附加功能｜精准运镜”相关，用于说明剧本生成功能，是剧本生成操作的展示界面。",
+    "mime": "image/png",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/05-第五节-AI-视频进阶功能/01-细化脚本/assets/QkoBbKmBYoSDewxAYMQc9QTjnvf.png",
+    "link": "./assets/QkoBbKmBYoSDewxAYMQc9QTjnvf.png",
+    "size_bytes": 145715
+  },
+  {
+    "token": "HnDMbMcfvo65HLxhmgUclBuHnEf",
+    "type": "media",
+    "name": "image.png",
+    "alt": "图片展示的是一个视频剪辑软件界面，呈现了视频剪辑的素材列表。列表中包含素材编号、素材名称、时长、素材类型、素材状态、素材描述、素材来源、素材来源描述、素材来源状态、素材来源描述状态、素材来源描述状态等信息。其中，素材名称如“王思聪的视频素材”“王思聪的视频素材2”等，时长多为10秒左右，素材类型有视频、音频等。该界面与上下文提到的视频剪辑相关，用于展示剪辑素材情况。",
+    "mime": "image/png",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/05-第五节-AI-视频进阶功能/01-细化脚本/assets/HnDMbMcfvo65HLxhmgUclBuHnEf.png",
+    "link": "./assets/HnDMbMcfvo65HLxhmgUclBuHnEf.png",
+    "size_bytes": 1050699
+  },
+  {
+    "token": "XWNdbjH8foQOBNxrBYlc2lPqnHh",
+    "type": "media",
+    "name": "image.png",
+    "alt": "图片展示的是一个视频剪辑软件界面，用于制作《全球首部科幻题材，电影级真人电影，真人电影，科幻题材的电影级真人电影，以全球首部科幻题材真人电影》的视频。界面中包含角色、结果、场景设置、道具、服装、道具等板块，每个板块下方有“+”号可添加内容。画面右上角有“生成资产”按钮。该图片与上下文紧密相关，是制作该视频的剪辑软件操作界面，用于后续精准运镜等操作。",
+    "mime": "image/png",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/05-第五节-AI-视频进阶功能/01-细化脚本/assets/XWNdbjH8foQOBNxrBYlc2lPqnHh.png",
+    "link": "./assets/XWNdbjH8foQOBNxrBYlc2lPqnHh.png",
+    "size_bytes": 514840
+  },
+  {
+    "token": "KpwlbtAFEoXMhyxOSj6cBWiJnX1",
+    "type": "media",
+    "name": "image.png",
+    "alt": "图片展示的是一个视频剪辑软件界面，呈现了多个视频片段的剪辑信息。左侧是视频片段列表，包含编号、时长、标题、状态等信息，部分标题被红色框标注。右侧是视频片段的详细信息，有视频时长、视频尺寸、视频帧率、视频编码、视频格式、视频文件大小等参数。界面底部有“一键生成全部视频”按钮。该图片与文档中“精准运镜”功能的上下文相关，用于展示视频剪辑时的片段信息及参数设置情况。",
+    "mime": "image/png",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/05-第五节-AI-视频进阶功能/01-细化脚本/assets/KpwlbtAFEoXMhyxOSj6cBWiJnX1.png",
+    "link": "./assets/KpwlbtAFEoXMhyxOSj6cBWiJnX1.png",
+    "size_bytes": 1126102
+  }
+]

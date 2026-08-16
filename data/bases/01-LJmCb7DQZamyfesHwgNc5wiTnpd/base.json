@@ -1,0 +1,22 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "base": {
+      "base_token": "LJmCb7DQZamyfesHwgNc5wiTnpd",
+      "is_advanced": false,
+      "name": "",
+      "revision": 2,
+      "url": "https://hcnbsg6ttb3t.feishu.cn/base/LJmCb7DQZamyfesHwgNc5wiTnpd",
+      "workspace_token": ""
+    }
+  },
+  "_notice": {
+    "update": {
+      "command": "lark-cli update",
+      "current": "1.0.63",
+      "latest": "1.0.87",
+      "message": "lark-cli 1.0.87 available, current 1.0.63, run: lark-cli update"
+    }
+  }
+}

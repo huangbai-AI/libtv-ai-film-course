@@ -1,0 +1,35 @@
+[
+  {
+    "token": "NydRbUu6toQJ2NxtS7BcRFAEnmh",
+    "type": "media",
+    "name": "image.png",
+    "alt": "图片为LibTV可用模型清单中视频模型部分的格式要求表格。表格包含类型、格式、数量、大小、时长/分辨率五列。图片一致，优先使用图生视频 - 首尾帧功能。图片中，图片格式为JPG、PNG、WebP，数量≤9张，大小&lt;20 MB，时长/分辨率≥512×512；视频格式为MP4、MOV，数量≤3个，大小&lt;50 MB，时长/分辨率2 - 15秒/个；音频格式为MP3，数量≤3个，大小&lt;10 MB，时长≤15秒。",
+    "mime": "image/png",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/14-附录-LibTV-可用模型清单/assets/NydRbUu6toQJ2NxtS7BcRFAEnmh.png",
+    "link": "./assets/NydRbUu6toQJ2NxtS7BcRFAEnmh.png",
+    "size_bytes": 56365
+  },
+  {
+    "token": "PI17b2BisoNBTqxHLhrchXqQnjg",
+    "type": "media",
+    "name": "image.png",
+    "alt": "图片展示的是LibTV视频节点3的界面。画面中有一个播放按钮，下方有“图片一致,优先使用图生视频-首尾帧功能”字样。下方有“全能参考”“图生视频”“首尾帧”“图片参考”等选项卡，当前选中“全能参考”。画面下方有描述文字，提到图片1和图片2中角色在桃花林中打斗，以及动作参考视频3等内容。该图片与文档中介绍LibTV可用视频模型清单的内容相关，直观呈现了视频节点3的界面及部分功能选项。",
+    "mime": "image/png",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/14-附录-LibTV-可用模型清单/assets/PI17b2BisoNBTqxHLhrchXqQnjg.png",
+    "link": "./assets/PI17b2BisoNBTqxHLhrchXqQnjg.png",
+    "size_bytes": 245063
+  },
+  {
+    "token": "LvvlbN9U4oWZG1xEncPcea6wnKd",
+    "type": "media",
+    "name": "image.png",
+    "alt": "图片是一张表格，对比了LibTV的HD和Turbo两种音频模型的适用场景。HD模型更适合正式作品、旁白、有声书、广告配音等场景；Turbo模型则更适合快速试听、批量试稿、低成本生成等场景。该表格位于文档中介绍LibTV音频模型部分，是对文档中提到的丰富情绪表达、高保真与强可控、支持音色克隆等功能的具体应用场景的补充说明。",
+    "mime": "image/png",
+    "ok": true,
+    "saved_path": "/Users/a1/Documents/Codex/2026-08-16/libtv-ai-sop-sop-1-2/work/libtv-ai-film-course/docs/03-course-collaboration/14-附录-LibTV-可用模型清单/assets/LvvlbN9U4oWZG1xEncPcea6wnKd.png",
+    "link": "./assets/LvvlbN9U4oWZG1xEncPcea6wnKd.png",
+    "size_bytes": 29163
+  }
+]

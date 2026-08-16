@@ -2,11 +2,12 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "urn:libtv:schemas:course-detailed-script:1",
   "title": "LibTV AI 影视课程细化脚本",
-  "description": "总目录 → 每节大纲 → 下挂细化脚本三级结构中的第三级规范化数据。渲染时固定输出：阶段、大纲、内容、口播、截图、备注。",
+  "description": "总目录 → 每节大纲 → 下挂细化脚本三级结构中的第三级规范化数据。",
   "type": "object",
   "additionalProperties": false,
   "required": [
     "schemaVersion",
+    "columns",
     "lesson",
     "documentHierarchy",
     "outlineSource",
@@ -15,6 +16,20 @@
   "properties": {
     "schemaVersion": {
       "const": "1.0.0"
+    },
+    "columns": {
+      "type": "array",
+      "prefixItems": [
+        {"const": "阶段"},
+        {"const": "大纲"},
+        {"const": "内容"},
+        {"const": "口播"},
+        {"const": "截图"},
+        {"const": "备注"}
+      ],
+      "items": false,
+      "minItems": 6,
+      "maxItems": 6
     },
     "lesson": {
       "type": "string",
@@ -29,15 +44,9 @@
         "detailedScriptDocument"
       ],
       "properties": {
-        "rootDirectoryDocument": {
-          "$ref": "#/$defs/documentRef"
-        },
-        "lessonOutlineDocument": {
-          "$ref": "#/$defs/documentRef"
-        },
-        "detailedScriptDocument": {
-          "$ref": "#/$defs/documentRef"
-        }
+        "rootDirectoryDocument": {"$ref": "#/$defs/documentRef"},
+        "lessonOutlineDocument": {"$ref": "#/$defs/documentRef"},
+        "detailedScriptDocument": {"$ref": "#/$defs/documentRef"}
       }
     },
     "outlineSource": {
@@ -45,21 +54,14 @@
       "additionalProperties": false,
       "required": ["documentId", "revisionId"],
       "properties": {
-        "documentId": {
-          "type": "string",
-          "minLength": 1
-        },
-        "revisionId": {
-          "type": ["string", "integer"]
-        }
+        "documentId": {"type": "string", "minLength": 1},
+        "revisionId": {"type": ["string", "integer"]}
       }
     },
     "contentGroups": {
       "type": "array",
       "minItems": 1,
-      "items": {
-        "$ref": "#/$defs/contentGroup"
-      }
+      "items": {"$ref": "#/$defs/contentGroup"}
     }
   },
   "$defs": {
@@ -68,18 +70,9 @@
       "additionalProperties": false,
       "required": ["documentId", "title"],
       "properties": {
-        "documentId": {
-          "type": "string",
-          "minLength": 1
-        },
-        "title": {
-          "type": "string",
-          "minLength": 1
-        },
-        "url": {
-          "type": "string",
-          "format": "uri"
-        }
+        "documentId": {"type": "string", "minLength": 1},
+        "title": {"type": "string", "minLength": 1},
+        "url": {"type": "string", "format": "uri"}
       }
     },
     "contentGroup": {
@@ -90,17 +83,17 @@
         "stage": {
           "type": "string",
           "minLength": 1,
-          "description": "逐字复制自该节主文档的阶段。"
+          "description": "逐字复制自父级主文档的阶段。"
         },
         "outline": {
           "type": "string",
           "minLength": 1,
-          "description": "逐字复制自该节主文档的大纲。"
+          "description": "逐字复制自父级主文档的大纲。"
         },
         "content": {
           "type": "string",
           "minLength": 1,
-          "description": "逐字复制自该节主文档的内容。"
+          "description": "逐字复制自父级主文档的内容。"
         },
         "sourceOrder": {
           "type": "integer",
@@ -110,14 +103,12 @@
         "sourceFingerprint": {
           "type": "string",
           "minLength": 1,
-          "description": "可选；阶段、大纲、内容和父级修订号的哈希，用于检测大纲变化。"
+          "description": "可选；父级修订号与阶段、大纲、内容的哈希，用于检测结构变化。"
         },
         "lines": {
           "type": "array",
           "minItems": 1,
-          "items": {
-            "$ref": "#/$defs/spokenLine"
-          }
+          "items": {"$ref": "#/$defs/spokenLine"}
         }
       }
     },

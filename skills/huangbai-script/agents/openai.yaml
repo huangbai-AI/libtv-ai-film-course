@@ -1,4 +1,0 @@
-interface:
-  display_name: "黄白写稿"
-  short_description: "按黄白风格撰写、改写中文视频脚本及六列课程细化逐字稿"
-  default_prompt: "使用 $huangbai-script 基于课程主文档大纲，按六列结构撰写细化逐字稿。"
